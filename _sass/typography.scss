@@ -152,7 +152,8 @@ p {
 }
 
 ul, ol {
-	@include font-size(18); /* amy */
+	@include font-size(15); /* amy */
+	line-height: 25px; /* amy */
 }
 
 /*
