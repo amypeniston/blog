@@ -4,7 +4,7 @@ title: Music Festivals
 modified: 2015-08-22T14:53:02.362000-04:00
 excerpt: "A list of music festivals I've attended and my recommendations on what to pack."
 image:
-  feature: sample-image-3.jpg
+  feature: bonnaroo-header.jpg
 ---
 
 One of my passions is going to music festivals. Especially the camping ones, where you stay in a dirty, sweaty tent and meet neighbors from all around the world. 
