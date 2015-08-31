@@ -6,16 +6,16 @@ date: '2012-08-13 02:12:00'
 
 “I cannot believe I just made bagels from scratch!”
 
-> 1 1/2 cup warm water (110-115°F)  
-1 tablespoon active yeast (1 package)
-1 tablespoon sugar
-1 tablespoon vegetable oil
-1 teaspoon molasses
-2 teaspoons salt
-4 cups unbleached bread flour (to consistency)
-water
-1 tablespoon molasses
-1 teaspoon salt
+> 1 1/2 cup warm water (110-115°F)    
+> 1 tablespoon active yeast (1 package)      
+> 1 tablespoon sugar      
+> 1 tablespoon vegetable oil      
+> 1 teaspoon molasses      
+> 2 teaspoons salt      
+> 4 cups unbleached bread flour (to consistency)      
+> water      
+> 1 tablespoon molasses      
+> 1 teaspoon salt      
 
 Toppings of your choice: sesame seeds, poppy seeds, minced garlic, powdered garlic, minced onion, powdered onion, caraway seeds, coarse salt, grated cheese, parmesan, corn meal, cinnamon, raisins
 

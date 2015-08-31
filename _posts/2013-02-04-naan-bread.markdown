@@ -8,14 +8,14 @@ date: '2013-02-04 03:31:00'
 
 Adapted from [Manjula’s Kitchen](http://www.manjulaskitchen.com/2007/05/22/naan-bread/).
 
-> 2 cups of flour  
-1 teaspoon active dry yeast
-1 teaspoon salt
-1 teaspoon sugar
-1/2 teaspoon baking soda
-2 tablespoons of vegetable oil
-2 1/2 tablespoons sour cream
-3/4 cup lukewarm water
+> 2 cups of flour   
+> 1 teaspoon active dry yeast     
+> 1 teaspoon salt     
+> 1 teaspoon sugar     
+> 1/2 teaspoon baking soda     
+> 2 tablespoons of vegetable oil     
+> 2 1/2 tablespoons sour cream     
+> 3/4 cup lukewarm water     
 
 * In a small glass bowl, stir dry yeast into lukewarm water. Let it sit for 10 minutes or until the mixture becomes frothy. If things don’t seem to be happening, your yeast may be a dud or the water not lukewarm. 
 * Add sugar, salt and baking soda to the flour and use your hands to mix well.

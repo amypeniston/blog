@@ -6,16 +6,16 @@ date: '2009-08-11 01:03:00'
 
 *Huge success with a modified version of Martha’s Ginger Molasses cupcakes. Great texture and a true-to-tradition gingerbread taste.*
 
-> 3 cups all-purpose flour (although bread flour works just fine)  
-2 teaspoons baking soda
-1 teaspoon salt
-1 1/2 cups sugar
-2/3 cup molasses
-2 eggs
-1 cup butter, melted
-1/3 cup hot water
-1 5-inch piece fresh ginger, peeled and minced
-1 teaspoon ground ginger
+> 3 cups all-purpose flour (although bread flour works just fine)   
+> 2 teaspoons baking soda     
+> 1 teaspoon salt     
+> 1 1/2 cups sugar     
+> 2/3 cup molasses     
+> 2 eggs     
+> 1 cup butter, melted     
+> 1/3 cup hot water     
+> 1 5-inch piece fresh ginger, peeled and minced     
+> 1 teaspoon ground ginger     
 
 * Preheat oven to 350° F. Line muffin tins with liners and grease with cooking spray.
 * Whisk together flour, baking soda, ground ginger and salt. 

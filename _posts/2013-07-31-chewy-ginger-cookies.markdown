@@ -6,19 +6,19 @@ date: '2013-07-31 00:49:00'
 
 *For those of us who prefer chewy, not snappy, when it comes to ginger cookies.*
 
-> 2 1/4 cups flour  
-2 tsp ground ginger
-1 tsp baking soda
-2 tsp ground cinnamon
-1 tsp ground cloves
-1/4 tsp salt
-2 tablespoons fresh ginger, minced finely
-3/4 cup butter, softened
-1 cup white sugar
-1 egg
-1 tablespoon water
-1/4 cup molasses
-white sugar to coat
+> 2 1/4 cups flour    
+> 2 tsp ground ginger    
+> 1 tsp baking soda    
+> 2 tsp ground cinnamon    
+> 1 tsp ground cloves    
+> 1/4 tsp salt    
+> 2 tablespoons fresh ginger, minced finely    
+> 3/4 cup butter, softened    
+> 1 cup white sugar    
+> 1 egg    
+> 1 tablespoon water    
+> 1/4 cup molasses    
+> white sugar to coat    
 
 * Cream butter and sugar until light and fluffy. 
 * Beat in egg, then water and molasses. Scrape sides of bowl as needed.

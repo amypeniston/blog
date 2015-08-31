@@ -10,37 +10,37 @@ Adapted from [Allrecipes](http://allrecipes.com/Recipe/Hot-Cross-Buns-I/Detail.a
 
 Dough:
 
-> 3/4 cup warm water  
-1 tablespoon active dry yeast
-3 tablespoons butter
-1/4 cup white sugar
-1/2 teaspoon salt
-1 egg
-1 egg white
-2 tablespoons milk
-3 cups all-purpose flour
-1/4 cup raisins
-1/2 cup mixed dried fruit
-3 tablespoons ground cinnamon
-2 teaspoons nutmeg
-1 teaspoon cloves
+> 3/4 cup warm water    
+> 1 tablespoon active dry yeast      
+> 3 tablespoons butter      
+> 1/4 cup white sugar      
+> 1/2 teaspoon salt      
+> 1 egg      
+> 1 egg white      
+> 2 tablespoons milk      
+> 3 cups all-purpose flour      
+> 1/4 cup raisins      
+> 1/2 cup mixed dried fruit      
+> 3 tablespoons ground cinnamon      
+> 2 teaspoons nutmeg      
+> 1 teaspoon cloves      
 
 Shiny Finish:
 
-> 1 egg yolk  
-2 tablespoons water
+> 1 egg yolk    
+> 2 tablespoons water    
 
 Sugar Topping:
 
-> 1 teaspoon cinnamon  
-3 tablespoons brown sugar
-1/4-1/2 cup chopped toasted walnuts
+> 1 teaspoon cinnamon   
+> 3 tablespoons brown sugar    
+> 1/4-1/2 cup chopped toasted walnuts    
 
 Glaze:
 
-> 3/4 cup confectioners’ sugar (to consistency)  
-1 teaspoon vanilla extract
-2 teaspoons milk (to consistency)
+> 3/4 cup confectioners’ sugar (to consistency)    
+> 1 teaspoon vanilla extract    
+> 2 teaspoons milk (to consistency)    
 
 * Stir together yeast and warm water and allow to activate ~10 minutes. The mixture should be light and frothy.
 * In a bowl combine flour, white sugar, salt, butter, milk and active yeast mixture (use your hands!).

@@ -8,16 +8,16 @@ date: '2013-05-26 10:39:00'
 
 Inspired by [Williams-Sonoma’s recipe](http://www.williams-sonoma.com/recipe/blueberry-pancakes.html).
 
-> 2 cups flour  
-3 tablespoons sugar
-2 teaspoons baking powder
-1 1/2 teaspoons baking soda
-1/2 teaspoon salt
-2 large eggs, lightly beaten
-1 3/4 cups milk
-2 tablespoons melted butter, plus more for pan
-1 1/2 cups blueberries (fresh or frozen- if frozen, don’t let thaw)
-butter, maple butter, cinnamon, maple syrup
+> 2 cups flour    
+> 3 tablespoons sugar    
+> 2 teaspoons baking powder    
+> 1 1/2 teaspoons baking soda    
+> 1/2 teaspoon salt    
+> 2 large eggs, lightly beaten    
+> 1 3/4 cups milk    
+> 2 tablespoons melted butter, plus more for pan    
+> 1 1/2 cups blueberries (fresh or frozen- if frozen, don’t let thaw)    
+> butter, maple butter, cinnamon, maple syrup    
 
 * In a large bowl sift together the flour, sugar, baking powder, baking soda and salt. Stir until well mixed.
 * Pour the eggs, the milk and the 2 tablespoons melted butter into the dry ingredients, then gradually whisk from the center outward, until the ingredients are well combined but still a little lumpy; do not over mix! You don’t want heavy pancakes!

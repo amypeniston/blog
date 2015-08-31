@@ -6,16 +6,16 @@ date: '2013-02-27 01:27:00'
 
 *Delicately thin and mouthwateringly soft chocolate cookies.*
 
-> 1 cup unsalted butter, softened  
-1 cup sugar
-1 tablespoon crisco (optional, but gives even better chewiness)
-2 eggs*
-1 teaspoon vanilla or mint extract
-2 cups flour
-3/4 teaspoon baking soda
-1/2 teaspoon salt
-2/3 cup cocoa powder
-3/4 – 1 cup chocolate chips or mint chips
+> 1 cup unsalted butter, softened       
+> 1 cup sugar     
+> 1 tablespoon crisco (optional, but gives even better chewiness)     
+> 2 eggs*     
+> 1 teaspoon vanilla or mint extract     
+> 2 cups flour     
+> 3/4 teaspoon baking soda     
+> 1/2 teaspoon salt     
+> 2/3 cup cocoa powder     
+> 3/4 – 1 cup chocolate chips or mint chips     
 
 * Preheat oven to 350°F. Grease cookie sheets with cooking spray.
 * Cream butter, crisco and sugar until light and fluffy ~5 minutes. 

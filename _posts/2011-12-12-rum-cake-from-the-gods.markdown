@@ -8,23 +8,23 @@ date: '2011-12-12 01:57:00'
 
 Cake:
 
-> 1 Package yellow cake mix  
-1 Package instant vanilla pudding
-4 eggs
-1/2 cup water
-1/2 cup vegetable oil
-1/2 cup dark rum (Bacardi works best!)
-1 tsp coconut extract
-1/2 – 1 cup toasted coconut
+> 1 Package yellow cake mix    
+> 1 Package instant vanilla pudding      
+> 4 eggs      
+> 1/2 cup water      
+> 1/2 cup vegetable oil      
+> 1/2 cup dark rum (Bacardi works best!)      
+> 1 tsp coconut extract      
+> 1/2 – 1 cup toasted coconut      
 
 Glaze (if desired) ~ 1/2- 3/4 cup:
 
 > 1/4 cup butter  
-1/8 cup water
-1/2 cup sugar (white, brown or both)
-1 tsp coconut extract
-1/4 cup dark rum
-top with toasted coconut
+> 1/8 cup water     
+> 1/2 cup sugar (white, brown or both)     
+> 1 tsp coconut extract     
+> 1/4 cup dark rum     
+> top with toasted coconut     
 
 * Preheat oven to 325°F. Grease and flour 10″ bundt pan (use Crisco). Sprinkle some toasted coconut over bottom of the pan (or walnuts, if it suits your fancy). Set pan aside.
 * In a large bowl combine cake mix and pudding mix. Blend in eggs, water, oil, rum, and extract and mix until just combined.

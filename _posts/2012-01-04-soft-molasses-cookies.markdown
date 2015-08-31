@@ -6,18 +6,18 @@ date: '2012-01-04 00:34:00'
 
 *Big time favorites, these stay chewy and plump.*
 
-> 8 tablespoons (1 stick) butter, softened  
-½ cup shortening  
-1 ½ cups sugar
-½ cup molasses
-2 large eggs, lightly beaten  
-4 cups unbleached all-purpose flour
-1 tsp salt
-2 ¼ tsps. baking soda
-2 ¼ tsps. ground ginger
-1 ½ tsps. ground cloves
-2 ½ tsps. ground cinnamon
-additional sugar, to coat cookies
+> 8 tablespoons (1 stick) butter, softened    
+> ½ cup shortening        
+> 1 ½ cups sugar      
+> ½ cup molasses      
+> 2 large eggs, lightly beaten        
+> 4 cups unbleached all-purpose flour      
+> 1 tsp salt      
+> 2 ¼ tsps. baking soda      
+> 2 ¼ tsps. ground ginger      
+> 1 ½ tsps. ground cloves      
+> 2 ½ tsps. ground cinnamon      
+> additional sugar, to coat cookies      
 
 * Cream butter, shortening and sugar. 
 * Beat in molasses and eggs.

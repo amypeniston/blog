@@ -8,18 +8,18 @@ date: '2013-05-20 11:40:00'
 
 My own interpretation of a similar Polish dish on [Filozofia Smaku’s blog](http://filozofiasmaku.blogspot.com/2013/05/salatka-pieczarkowa.html#.UZfxjytxsVk).
 
-> 3 eggs  
-4-6 large white mushrooms
-1/2 cup Bermuda onion, chopped into 1/2″ chunks
-4 strips of crisp bacon, chopped
-balsamic vinegar
-olive oil
-1 tablespoon mayonaise
-1 tablespoon sour cream
-1-2 tablespoons dijon mustard
-1/3 cup sharp cheese, chopped into small cubes
-salt & pepper to taste
-lettuce
+> 3 eggs    
+> 4-6 large white mushrooms    
+> 1/2 cup Bermuda onion, chopped into 1/2″ chunks    
+> 4 strips of crisp bacon, chopped    
+> balsamic vinegar    
+> olive oil    
+> 1 tablespoon mayonaise    
+> 1 tablespoon sour cream    
+> 1-2 tablespoons dijon mustard    
+> 1/3 cup sharp cheese, chopped into small cubes    
+> salt & pepper to taste    
+> lettuce    
 
 * Hard boil your eggs by placing them in a small saucepan with enough water to cover. Add a splash of white vinegar to prevent eggs from cracking. Bring water to a boil over medium heat and boil eggs rapidly for 1 minute. Turn off heat and let sit in hot water for 7 minutes. Remove eggs from water with a slotted spoon and place gently into ice cold water until cool enough to handle. 
 * Preheat oven to 400°F. 

@@ -9,22 +9,22 @@ date: '2013-02-19 02:45:00'
 Filling:
 
 > ~ 5 cups loquats, seeded, cleaned and quartered  
-~ 3/4 cup white sugar (adjust to taste)  
-~1/4 cup brown sugar (adjust to taste)  
-2 teaspoons cinnamon
-1 teaspoon nutmeg
-juice of one lemon
+> ~ 3/4 cup white sugar (adjust to taste)         
+> ~1/4 cup brown sugar (adjust to taste)         
+> 2 teaspoons cinnamon       
+> 1 teaspoon nutmeg       
+> juice of one lemon       
 
 Topping:
 
 > 3/4 cup flour  
-1 teaspoon baking powder
-1/2 teaspoon baking soda
-1/2 teaspoon salt
-3 tablespoons white sugar
-2 teaspoons cinnamon
-1/2 cup buttermilk
-4 tablespoons cold butter, diced
+> 1 teaspoon baking powder      
+> 1/2 teaspoon baking soda      
+> 1/2 teaspoon salt      
+> 3 tablespoons white sugar      
+> 2 teaspoons cinnamon      
+> 1/2 cup buttermilk      
+> 4 tablespoons cold butter, diced      
 
 * Toss filling ingredients together in a bowl and let stand until juicy ~ 30 minutes.
 * Pour filling ingredients into a saucepan and cook over medium heat for ~20 minutes until tender.

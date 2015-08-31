@@ -10,24 +10,24 @@ image:
 
 Cake: 
 
-> 1/2 cup butter, softened  
-1 cup white sugar
-2 eggs
-1 cup sour cream
-1 teaspoon vanilla extract
-2 cups all-purpose flour
-1 teaspoon baking powder
-1 teaspoon baking soda
-1/4 teaspoon salt
+> 1/2 cup butter, softened     
+> 1 cup white sugar    
+> 2 eggs    
+> 1 cup sour cream    
+> 1 teaspoon vanilla extract   
+> 2 cups all-purpose flour   
+> 1 teaspoon baking powder   
+> 1 teaspoon baking soda   
+> 1/4 teaspoon salt   
 
 Topping/Filling:
 
-> 1/4 cup white sugar  
-1/3 cup packed brown sugar
-2 teaspoons ground cinnamon
-3/4 cup walnuts, chopped
-3 tablespoons butter, melted
-1 apple, peeled and sliced thinly
+> 1/4 cup white sugar    
+> 1/3 cup packed brown sugar   
+> 2 teaspoons ground cinnamon   
+> 3/4 cup walnuts, chopped   
+> 3 tablespoons butter, melted   
+> 1 apple, peeled and sliced thinly   
 
 * Preheat the oven to 325°F.
 * In a bowl, cream together butter and white sugar.

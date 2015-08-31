@@ -8,22 +8,22 @@ date: '2013-01-10 03:18:00'
 
 Dough:
 
-> 1/4 cup lukewarm water  
-1 cup lukewarm milk
-1 tablespoon honey
-2 tablespoons olive oil
-1 large egg, beaten
-2 teaspoons yeast
-1 teaspoon salt
-1+ cup grated cheddar cheese
-3 1/4 – 3 3/4 cups flour
+> 1/4 cup lukewarm water    
+> 1 cup lukewarm milk      
+> 1 tablespoon honey      
+> 2 tablespoons olive oil      
+> 1 large egg, beaten      
+> 2 teaspoons yeast      
+> 1 teaspoon salt      
+> 1+ cup grated cheddar cheese      
+> 3 1/4 – 3 3/4 cups flour      
 
 Filling:
 
-> olive oil  
-garlic, finely minced
-cheddar, grated
-other great additions: white pepper, red pepper flakes, cayenne
+> olive oil   
+> garlic, finely minced     
+> cheddar, grated     
+> other great additions: white pepper, red pepper flakes, cayenne     
 
 * Pour yeast and lukewarm water into a plastic bowl or glass measuring cup. One of the keys with yeast is to make sure you don’t scorch it right from the beginning- so, make sure you stick your finger in the measuring cup of water before you combine it with the little yeasties.
 * Let yeast bloom for 5 minutes. If you don’t see clouds of happily growing yeast you’ve either killed it or your yeast was old. Dump out the bowl and try again.

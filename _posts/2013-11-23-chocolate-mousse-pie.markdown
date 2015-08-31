@@ -8,23 +8,23 @@ date: '2013-11-23 02:52:00'
 
 Crust:
 
-> 2-3 of your favorite cookies, crumbled (homemade or store-bought)  
-1 store-bought pie crust (graham cracker is delicious)
+> 2-3 of your favorite cookies, crumbled (homemade or store-bought)     
+> 1 store-bought pie crust (graham cracker is delicious)    
 
 Mousse:
 
-> 4 ounces semisweet chocolate, chopped  
-2 ounces bittersweet chocolate, chopped
-1/4 cup cold heavy cream
-3 large egg whites, room temperature
-3/4 cup cold heavy cream
+> 4 ounces semisweet chocolate, chopped     
+> 2 ounces bittersweet chocolate, chopped     
+> 1/4 cup cold heavy cream    
+> 3 large egg whites, room temperature    
+> 3/4 cup cold heavy cream    
 
 Whipped Cream Topping:
 
-> 2 tablespoons white sugar  
-1 teaspoon vanilla extract
-1 1/2 cups cold heavy cream
-chocolate for garnish
+> 2 tablespoons white sugar     
+> 1 teaspoon vanilla extract   
+> 1 1/2 cups cold heavy cream   
+> chocolate for garnish   
 
 * Crack 3 eggs and separate yolks, discarding or using for another dish. Allow the egg whites to come to room temperature in a small bowl.
 * Open up your store-bought pie crust. Crush 2-3 of your favorite cookies and sprinkle cookie bits on the bottom of the pie crust. Set aside.

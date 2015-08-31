@@ -6,15 +6,15 @@ date: '2013-02-13 11:31:00'
 
 *Malasadas are a traditional Portuguese dessert deep fried and coated with sugar. This malasadas recipe is a variation on a Bermudian family classic, from my aunt.*
 
-> 5 lbs flour  
-1 cup sugar
-1 teaspoon salt
-3+ packages of yeast
-1 1/4 cup warm water
-3 tablespoons vanilla
-1/4 lb melted butter, warm
-12 beaten eggs at room temperature
-4 cup evaporated milk, warm
+> 5 lbs flour   
+> 1 cup sugar      
+> 1 teaspoon salt      
+> 3+ packages of yeast      
+> 1 1/4 cup warm water      
+> 3 tablespoons vanilla      
+> 1/4 lb melted butter, warm      
+> 12 beaten eggs at room temperature      
+> 4 cup evaporated milk, warm      
 
 * Stir yeast into warm water and let activate for at least 10 minutes.
 In a large bowl stir together flour, sugar and salt. Make a well in the middle of the dry ingredients.

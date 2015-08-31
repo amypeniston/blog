@@ -6,22 +6,22 @@ date: '2011-12-12 02:38:00'
 
 *Inspired from a trip to Hawaii over Christmas 2009.*
 
-> 1 9-inch pie crust (graham cracker works great)
+> 1 9-inch pie crust (graham cracker works great)    
 
 Filling:
 
->1 cup milk  
-1 can coconut milk
-1 tbsp cocount extract
-1 cup sugar
-1 cup water
-1/2 cup cornstarch
-7/8 cup chocolate chips
+> 1 cup milk   
+> 1 can coconut milk     
+> 1 tbsp cocount extract     
+> 1 cup sugar     
+> 1 cup water     
+> 1/2 cup cornstarch     
+> 7/8 cup chocolate chips     
 
 Whipped Cream:
-> 1 1/2 cup heavy cream  
-1/4 cup sugar
-chocolate garnish (optional)
+> 1 1/2 cup heavy cream     
+> 1/4 cup sugar    
+> chocolate garnish (optional)   
 
 * Preheat oven to 350°F
 * If your pie crust requires pre-baking, follow instructions, remove from oven and cool.

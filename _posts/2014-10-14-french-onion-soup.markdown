@@ -8,32 +8,32 @@ date: '2014-10-14 11:29:00'
 
 Adapted from [Smitten Kitchen](http://smittenkitchen.com/blog/2011/04/french-onion-soup/).
 
-> 5 1/2 cups thinly sliced onions  
-2 shallots, thinly sliced
-3 tablespoons butter
-2 tablespoon olive oil
-1 teaspoon salt, plus more to taste
-1 tablespoon sugar
-2 teaspoons celery seed
-2 teaspoons dried oregano
-2 bay leaves
-3 tablespoons flour
-4 cups chicken stock
-2 cups chicken broth
-2 chicken/beef bouillon cubes
-1/2 cup dry white vermouth (or dry white wine)
-1 tablespoon black pepper, plus more to taste
-3 tablespoons cognac (or brandy)
+> 5 1/2 cups thinly sliced onions    
+> 2 shallots, thinly sliced    
+> 3 tablespoons butter    
+> 2 tablespoon olive oil    
+> 1 teaspoon salt, plus more to taste    
+> 1 tablespoon sugar    
+> 2 teaspoons celery seed    
+> 2 teaspoons dried oregano    
+> 2 bay leaves    
+> 3 tablespoons flour    
+> 4 cups chicken stock    
+> 2 cups chicken broth    
+> 2 chicken/beef bouillon cubes    
+> 1/2 cup dry white vermouth (or dry white wine)    
+> 1 tablespoon black pepper, plus more to taste    
+> 3 tablespoons cognac (or brandy)    
 
 To finish:
 
-> grated raw onion  
-1/2 cup grated cheddar
-1/4 cup cubed alpine lace
-1/4 cup shaved parmesan
-butter, cubed
-bread, toasted
-(Feel free to use whatever types of cheese you please, and in the quantity you like!)
+> grated raw onion      
+> 1/2 cup grated cheddar    
+> 1/4 cup cubed alpine lace    
+> 1/4 cup shaved parmesan    
+> butter, cubed    
+> bread, toasted    
+> (Feel free to use whatever types of cheese you please, and in the quantity you like!)    
 
 * Melt butter and oil together in a large saucepan over low heat. Add onions and stir to coat with butter/oil. Cover the pot and let simmer for 20 minutes.
 * Uncover the pot and stir in salt, celery seed, oregano, shallots and sugar. Raise the heat ever so slightly and simmer 40 minutes to an hour, stirring frequently. The longer you let the onions caramelize, the better this soup will be. The goal is a deep, golden brown color that smells absolutely heavenly. Don’t rush perfection!! If the onions start to get too dry, replace the lid for several minutes.

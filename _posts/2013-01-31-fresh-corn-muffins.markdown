@@ -6,18 +6,18 @@ date: '2013-01-31 03:09:00'
 
 *Golden yellow beauties studded with little kernels of fresh corn.*
 
-> 1/2 cup butter, softened  
-3/4 cup white sugar
-4 tablespoons honey or agave nectar
-2 eggs
-1 tsp vanilla
-1/2 tsp salt
-1 cup flour
-1/2 tsp baking powder
-1 cup cornmeal
-1/4 cup milk
-1/2 cup heavy cream
-3/4 cup fresh or canned corn kernels
+> 1/2 cup butter, softened    
+> 3/4 cup white sugar       
+> 4 tablespoons honey or agave nectar       
+> 2 eggs       
+> 1 tsp vanilla       
+> 1/2 tsp salt       
+> 1 cup flour       
+> 1/2 tsp baking powder       
+> 1 cup cornmeal       
+> 1/4 cup milk       
+> 1/2 cup heavy cream       
+> 3/4 cup fresh or canned corn kernels       
 
 * Preheat oven to 400°F. Line 12 muffin tins with paper cups and spray with cooking spray.
 * In a bowl combine milk, cream and cornmeal and let sit for 10 minutes.

@@ -6,13 +6,13 @@ date: '2014-05-05 11:52:00'
 
 *Love Bermuda kale! Pick it fresh, eat it often.*
 
-> 1 large bunch of kale, cleaned, de-stemmed and chopped  
-block of Parmesan
-lemon juice
-1/2 cup pine nuts or walnuts, toasted
-garlic powder
-salt & pepper to taste
-olive oil
+> 1 large bunch of kale, cleaned, de-stemmed and chopped    
+> block of Parmesan    
+> lemon juice    
+> 1/2 cup pine nuts or walnuts, toasted    
+> garlic powder   
+> salt & pepper to taste   
+> olive oil   
 
 * Steam the cleaned kale over simmering water for ~10 minutes until wilted and reduced in volume.
 * Remove kale from heat and run under cold water briefly. Set aside.

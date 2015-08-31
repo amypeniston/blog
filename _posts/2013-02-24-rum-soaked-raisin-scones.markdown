@@ -8,24 +8,24 @@ date: '2013-02-24 11:35:00'
 
 Scones:
 
-> 3/4 cup raisins  
-3-4 tablespoons rum, HOT!
-2 cups flour
-4 tablespoons white sugar
-2 teaspoons baking powder
-1 teaspoon baking soda
-1/2 teaspoon salt
-1 teaspoon cinnamon
-1/2 cup cold butter, cubed
-3/4 cup buttermilk
+> 3/4 cup raisins   
+> 3-4 tablespoons rum, HOT!   
+> 2 cups flour   
+> 4 tablespoons white sugar   
+> 2 teaspoons baking powder    
+> 1 teaspoon baking soda    
+> 1/2 teaspoon salt    
+> 1 teaspoon cinnamon    
+> 1/2 cup cold butter, cubed    
+> 3/4 cup buttermilk    
 
  
 
 Topping:
 
-> 3 tablespoons buttermilk  
-2 tablespoons white sugar
-1 teaspoon cinnamon
+> 3 tablespoons buttermilk     
+> 2 tablespoons white sugar    
+> 1 teaspoon cinnamon     
 
 * Preheat oven to 425ºF and microwave 3-4 tablespoons of Bacardi Gold Rum until hot. Soak raisins in rum while you prepare the rest of the ingredients. This makes your raisins plump and delicious. (+1 for using rum in a scone recipe, Amy).
 * Whisk together flour, sugar, baking powder, baking soda, salt and cinnamon in a medium bowl.

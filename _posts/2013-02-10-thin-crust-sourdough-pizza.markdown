@@ -9,10 +9,10 @@ date: '2013-02-10 03:43:00'
 Recipe by King Arthur:
 
 > 1 cup sourdough starter*  
-1/2 cup hot tap water
-2 1/2-3 cups flour**
-1 teaspoon salt
-1/2-1 teaspoon active dry yeast***
+> 1/2 cup hot tap water      
+> 2 1/2-3 cups flour**      
+> 1 teaspoon salt      
+> 1/2-1 teaspoon active dry yeast***      
 
 * Combine ingredients with a wooden spoon until dough resembles a shaggy mass. 
 * Turn out onto a lightly floured surface and knead until smooth and elastic.

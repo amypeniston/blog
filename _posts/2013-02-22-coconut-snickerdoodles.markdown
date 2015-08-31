@@ -9,24 +9,24 @@ date: '2013-02-22 01:13:00'
 Cookies:
 
 > 1/2 cup butter, softened  
-3 tablespoons shortening
-3/4 cup white sugar
-1 egg
-2 teaspoons vanilla
-1 1/2 cups flour
-1 teaspoon cream of tartar
-1 teaspoon baking soda
-1/4 teaspoon salt
-1 1/2 teaspoon cinnamon
-1 teaspoon ginger
-1/2 teaspoon nutmeg
-1/2 teaspoon cloves
-3/4 cup coconut
+> 3 tablespoons shortening         
+> 3/4 cup white sugar         
+> 1 egg         
+> 2 teaspoons vanilla         
+> 1 1/2 cups flour         
+> 1 teaspoon cream of tartar         
+> 1 teaspoon baking soda         
+> 1/4 teaspoon salt         
+> 1 1/2 teaspoon cinnamon         
+> 1 teaspoon ginger         
+> 1/2 teaspoon nutmeg         
+> 1/2 teaspoon cloves         
+> 3/4 cup coconut         
 
 Rolling Mixture:
 
-> 3 tablespoons white sugar  
-2 teaspoons cinnamon
+> 3 tablespoons white sugar     
+> 2 teaspoons cinnamon     
 
 * Cream together butter, shortening and sugar until light and fluffy.
 * Add egg and vanilla and beat to combine.

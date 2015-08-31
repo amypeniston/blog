@@ -8,21 +8,21 @@ date: '2009-08-10 23:48:00'
 
 Cookies:
 
-> 1/2 cup butter
-1 cup sugar
-2 eggs
-1 tablespoon vanilla
-2 1/2 cups all-purpose flour
-1/2 teaspoon salt
-1/4 teaspoon baking soda
+> 1/2 cup butter     
+> 1 cup sugar      
+> 2 eggs      
+> 1 tablespoon vanilla      
+> 2 1/2 cups all-purpose flour      
+> 1/2 teaspoon salt      
+> 1/4 teaspoon baking soda      
 
 Filling:
 
-> 2 cups blueberries, fresh is best!  
-2/3 cup sugar
-2/3 cup cold water
-1 teaspoon lemon juice
-1 tablespoon cornstarch
+> 2 cups blueberries, fresh is best!    
+> 2/3 cup sugar     
+> 2/3 cup cold water     
+> 1 teaspoon lemon juice     
+> 1 tablespoon cornstarch     
 
 * In a large bowl, cream butter and sugar until light and fluffy. 
 * Beat in eggs, and vanilla. 

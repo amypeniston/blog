@@ -6,20 +6,20 @@ date: '2012-01-30 00:35:00'
 
 *The chunkiest, chewiest, yummiest oatmeal raisin cookies.*
 
-> 3/4 cup softened butter  
-1 cup brown sugar
-1/2 cup white sugar
-1 large egg (to consistency)
-1 tsp vanilla
-1 cup flour
-1-2 tsp cinnamon
-1/2 tsp nutmeg
-3/4 tsp baking soda
-1/4 tsp salt
-3 cups old-fashioned oats
-1+ cup raisins (as desired)
-1/2+ cup chocolate chips (as desired)
-1/2+ cup coconut (as desired)
+> 3/4 cup softened butter    
+> 1 cup brown sugar     
+> 1/2 cup white sugar     
+> 1 large egg (to consistency)     
+> 1 tsp vanilla     
+> 1 cup flour     
+> 1-2 tsp cinnamon     
+> 1/2 tsp nutmeg     
+> 3/4 tsp baking soda     
+> 1/4 tsp salt     
+> 3 cups old-fashioned oats     
+> 1+ cup raisins (as desired)     
+> 1/2+ cup chocolate chips (as desired)     
+> 1/2+ cup coconut (as desired)     
 
 * Preheat oven to 350°F.
 * Blend together butter and sugars until light and fluffy.

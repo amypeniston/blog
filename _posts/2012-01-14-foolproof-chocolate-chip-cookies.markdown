@@ -9,16 +9,16 @@ image:
 *Really, truly, the only cookie recipe you'll ever need.*
 
 
-> 3/4 cup unsalted butter, softened  
-1 cup packed brown sugar
-1/2 cup white sugar
-1 tablespoon vanilla extract
-1 egg
-1 egg yolk
-2 cups all-purpose flour
-1/2 teaspoon baking soda
-1/2 teaspoon salt
-1 1/2 cups semisweet chocolate chips (as desired)
+> 3/4 cup unsalted butter, softened   
+> 1 cup packed brown sugar     
+> 1/2 cup white sugar     
+> 1 tablespoon vanilla extract     
+> 1 egg     
+> 1 egg yolk     
+> 2 cups all-purpose flour     
+> 1/2 teaspoon baking soda     
+> 1/2 teaspoon salt     
+> 1 1/2 cups semisweet chocolate chips (as desired)     
 
 * Preheat oven to 325°F. 
 * Grease cookie sheets with cooking spray.

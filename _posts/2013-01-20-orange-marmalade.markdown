@@ -6,11 +6,11 @@ date: '2013-01-20 12:12:00'
 
 *A recipe that is not for the faint of heart and a result that will definitely impress your tea-loving friends.*
 
-> 1 3/4 to 2 pounds oranges (4 to 6 medium, 6-8 small)  
-2 lemons
-6 cups water
-3 pounds, 12 ounces to 4 pounds white sugar
-10 (8-ounce) canning jars
+> 1 3/4 to 2 pounds oranges (4 to 6 medium, 6-8 small)    
+> 2 lemons     
+> 6 cups water     
+> 3 pounds, 12 ounces to 4 pounds white sugar     
+> 10 (8-ounce) canning jars     
 
 * Wash the fruit very thoroughly (you’ll be eating the skin!).
 * First, we’ll deal with the oranges. Cut away any imperfections on the exterior of each orange, then slice into 1/8″ rings. Handling each ring individually, remove any seeds and slice further into quarters. Be picky; don’t include extra tough pithy pieces. Another good trick is to work over a bowl or a rounded dish to catch any juice that may accumulate as you’re picking through orange rings.

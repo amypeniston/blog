@@ -6,19 +6,19 @@ date: '2013-12-04 12:45:00'
 
 *A crunchy, hearty medley of veggies, grain and toasted nuts.*
 
-> 1 cup quinoa  
-2 cups water
-1 small onion, diced
-1 bunch scallions, chopped finely
-1 tablespoon minced garlic
-olive oil
-1 head broccoli, chopped
-3/4 cup pecans, chopped finely
-splash lemon juice
-splash apple cider vinegar
-2 tablespoons McKay’s chicken seasoning
-black pepper
-salt
+> 1 cup quinoa      
+> 2 cups water    
+> 1 small onion, diced    
+> 1 bunch scallions, chopped finely    
+> 1 tablespoon minced garlic    
+> olive oil    
+> 1 head broccoli, chopped    
+> 3/4 cup pecans, chopped finely    
+> splash lemon juice    
+> splash apple cider vinegar    
+> 2 tablespoons McKay’s chicken seasoning    
+> black pepper    
+> salt    
 
 * Soak quinoa in enough water to cover for 30 minutes. Rinse several times and then drain.
 * Preheat oven to 425°F. Line a baking sheet with foil.

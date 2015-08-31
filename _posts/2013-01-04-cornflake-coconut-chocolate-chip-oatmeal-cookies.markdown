@@ -6,18 +6,18 @@ date: '2013-01-04 01:02:00'
 
 *So what if you can’t decide what to put in your cookies- this batch calls for a little of everything!*
 
-> 1 cup butter, softened  
-1 cup white sugar
-1 cup brown sugar
-2 eggs
-1 teaspoon coconut extract
-2 cups flour
-1 teaspoon baking powder
-1/2 teaspoon salt
-1 cup cornflakes
-3/4 cup old fashioned oats
-1 1/4 cups coconut
-1 1/2 cups chocolate chips
+> 1 cup butter, softened    
+> 1 cup white sugar      
+> 1 cup brown sugar      
+> 2 eggs      
+> 1 teaspoon coconut extract      
+> 2 cups flour      
+> 1 teaspoon baking powder      
+> 1/2 teaspoon salt      
+> 1 cup cornflakes      
+> 3/4 cup old fashioned oats      
+> 1 1/4 cups coconut      
+> 1 1/2 cups chocolate chips      
 
 * Preheat oven to 350°F. Grease baking sheets with cooking spray.
 * Cream butter and sugars until light and fluffy.

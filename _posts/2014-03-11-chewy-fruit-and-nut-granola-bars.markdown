@@ -6,24 +6,24 @@ date: '2014-03-11 11:00:00'
 
 Recipe inspired by [Smitten Kitchen](http://smittenkitchen.com/blog/2010/02/thick-chewy-granola-bars/).
 
-> 1 2/3 cups quick rolled oats  
-1/2 cup granulated sugar
-1/3 cup oat flour created by processing 1/3 cup oats until finely ground
-1/2 teaspoon salt
-2 teaspoon cinnamon
-1/2 teaspoon nutmeg
-handful dried pineapple, blended to small chunks
-handful dried mango, blended to small chunks
-1/2 – 1 cup walnuts, blended to small chunks
-1/2 cup wheat germ
-1/2 cup coconut flakes (preferably not sweetened)
-1 cup raisins or dried cherries
-1/3 cup peanut butter or another nut butter
-1 teaspoon almond extract
-6 tablespoons melted butter
-1/2 cup honey and/or maple syrup (a combination is yummy)
-2 tablespoons light corn syrup
-1 tablespoon water
+> 1 2/3 cups quick rolled oats      
+> 1/2 cup granulated sugar    
+> 1/3 cup oat flour created by processing 1/3 cup oats until finely ground    
+> 1/2 teaspoon salt    
+> 2 teaspoon cinnamon    
+> 1/2 teaspoon nutmeg    
+> handful dried pineapple, blended to small chunks    
+> handful dried mango, blended to small chunks    
+> 1/2 – 1 cup walnuts, blended to small chunks    
+> 1/2 cup wheat germ    
+> 1/2 cup coconut flakes (preferably not sweetened)    
+> 1 cup raisins or dried cherries    
+> 1/3 cup peanut butter or another nut butter    
+> 1 teaspoon almond extract    
+> 6 tablespoons melted butter    
+> 1/2 cup honey and/or maple syrup (a combination is yummy)    
+> 2 tablespoons light corn syrup    
+> 1 tablespoon water    
 
 * Preheat the oven to 350F. Line an 8″ x 8″ x 2″ pan with parchment paper, allowing it to go up the sides to give you something to grab onto post baking. Lightly grease the parchment paper and the exposed pan with spray.
 * Stir together all the dry ingredients, including the fruit and nuts.

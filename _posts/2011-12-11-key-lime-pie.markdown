@@ -6,14 +6,14 @@ date: '2011-12-11 02:43:00'
 
 *A very simple recipe that brings a unique flavor to the dessert table.*
 
-> 1 graham cracker crust  
-3 cups (2 cans) condensed milk
-1/2 cup sour cream
-3/4 cup key lime juice
-1 tablespoon grated lime zest
-1 drop green food coloring
-1 1/2 cups whipping cream
-3 tablespoons sugar (to taste)
+> 1 graham cracker crust    
+> 3 cups (2 cans) condensed milk      
+> 1/2 cup sour cream      
+> 3/4 cup key lime juice      
+> 1 tablespoon grated lime zest      
+> 1 drop green food coloring      
+> 1 1/2 cups whipping cream      
+> 3 tablespoons sugar (to taste)      
 
 * If your graham cracker pie crust requires baking, do so before making the filling.
 * Preheat oven to 350°F.

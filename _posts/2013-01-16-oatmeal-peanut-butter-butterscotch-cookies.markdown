@@ -6,16 +6,16 @@ date: '2013-01-16 01:09:00'
 
 *Peanut butter and butterscotch: a match made in heaven.*
 
-> 1 cup butter, softened  
-1 cup brown sugar
-1/2 cup white sugar
-1 cup peanut butter
-2 eggs
-1 1/2 cups flour
-2 teaspoons baking soda
-1/2 teaspoon salt
-1 cup old-fashioned oats
-1 cup butterscotch chips
+> 1 cup butter, softened    
+> 1 cup brown sugar      
+> 1/2 cup white sugar      
+> 1 cup peanut butter      
+> 2 eggs      
+> 1 1/2 cups flour      
+> 2 teaspoons baking soda      
+> 1/2 teaspoon salt      
+> 1 cup old-fashioned oats      
+> 1 cup butterscotch chips      
 
 
 * Preheat the oven to 375°F; Grease cookie sheets with cooking spray.

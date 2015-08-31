@@ -6,15 +6,15 @@ date: '2014-03-08 11:57:00'
 
 *Break off a hunk and dunk it in a steaming cup of coffee.*
 
-> 2 cups flour  
-1/4 cup white sugar
-1 1/4 teaspoon baking powder
-1/4 teaspoon baking soda
-1/4 teaspoon salt
-1/2 cup (1 stick) cold butter, cut into small pieces
-3/4 cup chocolate chips
-1 teaspoon vanilla extract
-3/4 cup buttermilk (Don’t have buttermilk? Combine regular milk stand with a few drops of white vinegar and let stand for 10 minutes)
+> 2 cups flour      
+> 1/4 cup white sugar    
+> 1 1/4 teaspoon baking powder    
+> 1/4 teaspoon baking soda    
+> 1/4 teaspoon salt    
+> 1/2 cup (1 stick) cold butter, cut into small pieces    
+> 3/4 cup chocolate chips    
+> 1 teaspoon vanilla extract    
+> 3/4 cup buttermilk (Don’t have buttermilk? Combine regular milk stand with a few drops of white vinegar and let stand for 10 minutes)    
 
 * Preheat oven to 400ºF.
 * Whisk together flour, sugar, baking powder, baking soda and salt.

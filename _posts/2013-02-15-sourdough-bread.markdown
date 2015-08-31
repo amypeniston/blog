@@ -10,21 +10,21 @@ Recipe adapted from [Annie’s Eats](http://www.annies-eats.com/2012/08/08/sourd
 
 For the sponge: 
 
-> 1 cup fed sourdough starter*  
-1 1/2 cups lukewarm water
-3 cups all-purpose flour
+> 1 cup fed sourdough starter*     
+> 1 1/2 cups lukewarm water    
+> 3 cups all-purpose flour   
 
 For the dough: 
 
-> 1 tablespoon granulated sugar  
-2 1/4 teaspoons salt
-2 cups bread flour
-1-2 tbsp. water (optional)
+> 1 tablespoon granulated sugar    
+> 2 1/4 teaspoons salt    
+> 2 cups bread flour   
+> 1-2 tbsp. water (optional)   
 
 To finish:
 
-> 1 egg white lightly beaten with 1 tbsp  
-Water in a bowl
+> 1 egg white lightly beaten with 1 tbsp     
+> Water in a bowl   
 
 * The first step is to prepare your starter. If it has been in the fridge you will need to remove it and feed it 1-3 times until activated. Otherwise if it has been living on your counter, feed it in the morning and let it rest for 4-6 hours before using. You can learn more about [sourdough starters](https://www.stellaculinary.com/podcasts/video/how-to-make-a-sourdough-starter-video-recipe) from Chef Jacob of Stella Culinary Institute here.
 * In a large mixing bowl combine the starter, water and flour. Mix together with a wooden spoon (or hands, if you’re brave) until smooth. The dough will NOT be a cohesive ball- rather it is what we call a “sponge”. Cover with plastic wrap and let sit at room temperature for 4 hours.

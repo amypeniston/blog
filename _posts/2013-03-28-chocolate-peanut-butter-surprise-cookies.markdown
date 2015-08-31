@@ -8,17 +8,17 @@ date: '2013-03-28 00:46:00'
 
 Inspired by [My San Francisco Kitchen](https://www.mysanfranciscokitchen.com/). Great site, be sure to check it out.
 
-> ¼ cup white sugar  
-¼ cup packed brown sugar  
-⅓ cup peanut butter  
-1 tbsp shortening
-3 tbsp butter or margarine, softened
-1 egg
-¾ cup all-purpose flour  
-¼ tsp baking soda  
-¼ tsp baking powder
-pinch salt
-¼ cup semi-sweet chocolate chips
+> ¼ cup white sugar     
+> ¼ cup packed brown sugar       
+> ⅓ cup peanut butter       
+> 1 tbsp shortening     
+> 3 tbsp butter or margarine, softened     
+> 1 egg     
+> ¾ cup all-purpose flour       
+> ¼ tsp baking soda       
+> ¼ tsp baking powder     
+> pinch salt     
+> ¼ cup semi-sweet chocolate chips     
 
 * Take your peanut butter out of the fridge so it’s nice and soft.
 * Cream butter, shortening and sugars until light and fluffy.

@@ -6,15 +6,15 @@ date: '2013-01-15 12:36:00'
 
 *A warm, sweet carrot dish with a moist middle and crispy crust.*
 
-> 2 pounds carrots, chopped into small pieces  
-1/2 cup butter, melted
-3/4 cup white sugar
-3 tablespoons flour
-1 1/2 teaspoon baking power
-2 teaspoons vanilla extract
-2 teaspoons graham marsala
-3 eggs, beaten
-confectioner’s sugar for dusting
+> 2 pounds carrots, chopped into small pieces   
+> 1/2 cup butter, melted      
+> 3/4 cup white sugar      
+> 3 tablespoons flour      
+> 1 1/2 teaspoon baking power      
+> 2 teaspoons vanilla extract      
+> 2 teaspoons graham marsala      
+> 3 eggs, beaten      
+> confectioner’s sugar for dusting      
 
 * Preheat oven to 350°F and grease a large casserole dish with cooking spray.
 * Steam carrots until mushy over boiling water. Once tender, pour carrots into bowl and mash until only slightly chunky.

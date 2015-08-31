@@ -6,12 +6,12 @@ date: '2012-12-13 00:58:00'
 
 *Granny passed away this year (2012), but she will live on forever in our kitchens with her favorite cookie recipe.*
 
-> 1/2 cup butter  
-1/2 cup shortening
-1/2 cup white sugar
-2 1/4 cups flour, sifted
-1 tsp almond extract
-candied cherries, halved
+> 1/2 cup butter    
+> 1/2 cup shortening     
+> 1/2 cup white sugar     
+> 2 1/4 cups flour, sifted     
+> 1 tsp almond extract     
+> candied cherries, halved     
 
 * Preheat oven to 350°F. 
 * Cream together butter, shortening and white sugar. Beat in almond extract.

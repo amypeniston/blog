@@ -9,21 +9,21 @@ tags: [recipe, bread]
 
 Inspired by Starbuck's Lemon Loaf and [Averie Cook's](http://www.averiecooks.com/2015/01/best-lemon-loaf-better-starbucks-copycat.html) spot on recipe.
 
-> 3 large eggs  
-1 cup granulated sugar
-1/2 cup (4 ounces) sour cream 
-1/2 cup (4 ounces) lemon-flavored Greek yogurt
-1/2 cup vegetable oil
-2 tablespoons lemon zest
-2 tablespoons lemon extract
-1 1/2 cups all-purpose flour
-2 teaspoons baking powder
-1/2 teaspoon salt
+> 3 large eggs   
+> 1 cup granulated sugar  
+> 1/2 cup (4 ounces) sour cream  
+> 1/2 cup (4 ounces) lemon-flavored Greek yogurt  
+> 1/2 cup vegetable oil  
+> 2 tablespoons lemon zest   
+> 2 tablespoons lemon extract  
+> 1 1/2 cups all-purpose flour   
+> 2 teaspoons baking powder  
+> 1/2 teaspoon salt  
 
 Lemon glaze:
 
 > 1 cup confectioners' sugar  
-3 tablespoons lemon juice, or as necessary for consistency
+> 3 tablespoons lemon juice, or as necessary for consistency
 
 * Preheat oven to 350°F. Grease and flour a 9x5" loaf pan and set aside.
 * Whisk together the eggs, sugar, sour cream and yogurt until smooth and evenly combined.

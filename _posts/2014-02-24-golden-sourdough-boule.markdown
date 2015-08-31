@@ -8,11 +8,11 @@ date: '2014-02-24 13:34:00'
 
 Adapted from [Chef Jacob](http://www.youtube.com/watch?v=YfWcs2k7oQ4&list=PL5695FB121FA663D9). I did find that I needed to adjust the quantity of flour because my dough was unworkably sticky. This was most likely due to a very wet starter.
 
-> 275g Warm Water  
-500g Sourdough Starter (approximately 100% hydration rate i.e. 1:1 flour:water)
-450g Bread Flour
-100g Whole Wheat Flour
-20g Salt
+> 275g Warm Water     
+> 500g Sourdough Starter (approximately 100% hydration rate i.e. 1:1 flour:water)   
+> 450g Bread Flour   
+> 100g Whole Wheat Flour   
+> 20g Salt   
 
 * Check to be sure your starter is ready by dropping a glob in a beaker of water. If it floats, you’re good to go. If not, you may need to feed your starter and try again later.
 * Stir together warm water and starter using a wooden spoon. Pour in flours and bring together to form a shaggy, ugly mass.

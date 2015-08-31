@@ -10,16 +10,16 @@ Inspired by Joyofbaking.com.
 
 Macaroons:
 
-> 2 large eggs, room temperature  
-1/2 cup granulated white sugar
-1/8 teaspoon salt
-1 teaspoon pure coconut extract
-3 cups sweetened coconut
+> 2 large eggs, room temperature    
+> 1/2 cup granulated white sugar    
+> 1/8 teaspoon salt    
+> 1 teaspoon pure coconut extract    
+> 3 cups sweetened coconut    
 
 Dipping Chocolate:
 
-> 4 ounces semi-sweet chocolate, chopped  
-1 tablespoon butter
+> 4 ounces semi-sweet chocolate, chopped    
+> 1 tablespoon butter    
 
 * Preheat oven to 350°F. Line two baking sheets with parchment paper.
 * Whisk together eggs until nice and frothy, then add sugar salt, and coconut extract.

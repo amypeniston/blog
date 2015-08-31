@@ -6,20 +6,20 @@ date: '2014-07-05 01:35:00'
 
 *A classic, easy recipe that’s sure to please lemon lovers.*
 
-> 9-inch baked pie shell  
-2 tablespoons butter
-1/3 cup cornstarch
-4 egg yolks, slightly beaten
-1 1/2 cups sugar
-1/4 cup lemon juice
-2 tablespoons lemon peel (optional)
-1 1/2 cups water
+> 9-inch baked pie shell   
+> 2 tablespoons butter   
+> 1/3 cup cornstarch   
+> 4 egg yolks, slightly beaten   
+> 1 1/2 cups sugar   
+> 1/4 cup lemon juice   
+> 2 tablespoons lemon peel (optional)   
+> 1 1/2 cups water   
 
 Meringue:
 
-> 4 egg whites (1/2 cup) at room temp  
-1/4 teaspoon cream of tartar (or cornstarch)
-1/2 cup sugar
+> 4 egg whites (1/2 cup) at room temp     
+> 1/4 teaspoon cream of tartar (or cornstarch)   
+> 1/2 cup sugar   
 
 * Prepare and bake pie shell. Let cool.
 * Combine cornstarch, sugar, salt in saucepan. Slowly add water and stir until smooth.

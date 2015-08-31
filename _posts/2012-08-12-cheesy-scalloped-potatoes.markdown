@@ -6,23 +6,23 @@ date: '2012-08-12 11:27:00'
 
 *Sure, they’re high maintenance but just look at these creamy, veggie-topped scalloped potatoes.*
 
-> 2 large egg yolks  
-1 1/2 cups whole milk
-2+ cups heavy cream
-1 teaspoon nutmeg
-2 teaspoons salt (to taste)
-3+ teaspoons pepper (to taste)
-3+ tablespoons minced garlic (to taste)
-2 bay leaves
-1 pound russet potatoes, peeled and sliced 1/8″ thick
-1 1/2 cups grated gruyere cheese, or any combination of your favorite cheeses
-3+ tomatoes, sliced 1/2″ thick
-2 bell peppers, sliced in 1/2″ thick strips
-1 onion cut into 1/2″ rounds
-8 mushrooms, cut into 1/2″ slices
-4 tablespoons olive oil, plus additional oil to grease the pan
-3 teaspoons of your favorite seasoning for vegetables
-1 1/4 cups breadcrumbs
+> 2 large egg yolks    
+> 1 1/2 cups whole milk      
+> 2+ cups heavy cream      
+> 1 teaspoon nutmeg      
+> 2 teaspoons salt (to taste)      
+> 3+ teaspoons pepper (to taste)      
+> 3+ tablespoons minced garlic (to taste)      
+> 2 bay leaves      
+> 1 pound russet potatoes, peeled and sliced 1/8″ thick      
+> 1 1/2 cups grated gruyere cheese, or any combination of your favorite cheeses      
+> 3+ tomatoes, sliced 1/2″ thick      
+> 2 bell peppers, sliced in 1/2″ thick strips      
+> 1 onion cut into 1/2″ rounds      
+> 8 mushrooms, cut into 1/2″ slices      
+> 4 tablespoons olive oil, plus additional oil to grease the pan      
+> 3 teaspoons of your favorite seasoning for vegetables      
+> 1 1/4 cups breadcrumbs      
 
 * Soak sliced potatoes in a bowl of cold water for 20 minutes to remove the starch. Pat them dry and set aside.
 * Whisk egg yolks and 1/2 cup milk in a small bowl and set aside.

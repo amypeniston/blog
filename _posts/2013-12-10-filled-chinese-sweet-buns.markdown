@@ -12,35 +12,35 @@ Inspired by [Instructables’ Bakery Buns Recipe](http://www.instructables.com/i
 
 The roux (made on the stove):
 
-> 25 g bread flour  
-125 g water
+> 25 g bread flour     
+> 125 g water    
 
 The dough:
 
-> Roux (see above)  
-540 g bread flour
-86 g white sugar
-7 g salt
-11 g yeast
-86 g whole eggs
-59 g whipping cream or heavy cream
-63 g milk
-49 g softened butter
+> Roux (see above)    
+> 540 g bread flour    
+> 86 g white sugar    
+> 7 g salt    
+> 11 g yeast    
+> 86 g whole eggs   
+> 59 g whipping cream or heavy cream   
+> 63 g milk    
+> 49 g softened butter    
 
 Filling Ideas:
 
-> Broccoli, lightly steamed  
-Onion, minced
-Cheese, finely shredded
-Coarse Grain Mustard
-Hot Peppers, minced
-Mushrooms
-Coconut Custard (see recipe, below)
+> Broccoli, lightly steamed      
+> Onion, minced    
+> Cheese, finely shredded    
+> Coarse Grain Mustard    
+> Hot Peppers, minced    
+> Mushrooms    
+> Coconut Custard (see recipe, below)    
 
 Egg Wash:
 
-> 1 egg (for egg wash)  
-1 tsp sesame seeds (optional)
+> 1 egg (for egg wash)      
+> 1 tsp sesame seeds (optional)    
 
 * First, make the roux: whisk together flour and water in a saucepan over medium heat until thickened. The whisk should leave trails in the mixture- you should be able to see the bottom of the saucepan. Remove from heat and let cool to room temperature. This process is quick! Stay vigilant!
 * Warm the milk in the microwave, then dissolve in it the yeast. Let sit for 10 minutes or until activated and puffy.

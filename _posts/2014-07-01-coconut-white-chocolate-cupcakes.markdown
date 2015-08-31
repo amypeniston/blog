@@ -6,18 +6,18 @@ date: '2014-07-01 01:20:00'
 
 *With a great big dollop of frosting on top!*
 
-> 1 1/2 sticks butter, room temperature  
-1 cup white sugar
-3 eggs, room temperature
-1 teaspoon vanilla extract
-1 teaspoon almond extract
-1 1/2 cups flour
-1/2 teaspoon baking powder
-1/4 teaspoon baking soda
-1/2 teaspoon salt
-1/2 cup buttermilk
-3/4 cup white chocolate chips
-4 ounces shredded coconut
+> 1 1/2 sticks butter, room temperature     
+> 1 cup white sugar   
+> 3 eggs, room temperature   
+> 1 teaspoon vanilla extract   
+> 1 teaspoon almond extract   
+> 1 1/2 cups flour   
+> 1/2 teaspoon baking powder   
+> 1/4 teaspoon baking soda   
+> 1/2 teaspoon salt   
+> 1/2 cup buttermilk   
+> 3/4 cup white chocolate chips   
+> 4 ounces shredded coconut   
 
 * Preheat the oven to 325°F.
 * Cream butter and sugar with mixer until light and fluffy, about 3 minutes.
