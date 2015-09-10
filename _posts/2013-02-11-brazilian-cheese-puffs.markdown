@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Brazilian Cheese Puffs
+image:
+  feature: 2015/08/cheese_puffs.jpg
 date: '2013-02-11 03:21:00'
 ---
 
