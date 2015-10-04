@@ -50,6 +50,7 @@ image:
 * [Chocolate Chip Banana Muffins- with secret ingredient: MAYO!](/chocolate-chip-banana-bread/)
 * [Filled Chinese Sweet Buns](/filled-chinese-sweet-buns/)
 * [Glazed Lemon Loaf](/glazed-lemon-loaf/)
+* [Savory Jalapeno Cheddar Cornbread](/savory-jalapeno-cheddar-cornbread/)
 
 ####Other Sweets
 * [Malasadas- Portuguese Donuts](/malasadas-portuguese-donuts/)
