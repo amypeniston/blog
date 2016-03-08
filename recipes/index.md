@@ -7,7 +7,7 @@ image:
   feature: /recipes/foolproof-chocolate-chip-cookies.jpg
 ---
 
-####Cookies 
+#### Cookies 
 * [Foolproof Chocolate Chip Cookies](/foolproof-chocolate-chip-cookies/)
 * [Oatmeal Raisin Chocolate Coconut Cookies](/oatmeal-raisin-chocolate-coconut-cookies/)
 * [Soft Molasses Cookies](/soft-molasses-cookies/)
@@ -22,20 +22,20 @@ image:
 * [Chocolate Peanut Butter Surprise Cookies](/chocolate-peanut-butter-surprise-cookies/)
 * [Chewy Ginger Cookies](/chewy-ginger-cookies/)
 
-####Cakes 
+#### Cakes 
 * [Rum Cake from the Gods](/rum-cake-from-the-gods/)
 * [Ginger Molasses Cupcakes](/ginger-molasses-cupcakes/)
 * [Apple Graham Streusel Coffee Cake](/apple-graham-streusel-coffee-cake/)
 * [Coconut White Chocolate Cupcakes](/coconut-white-chocolate-cupcakes/)
 
-####Pies/Cobblers 
+#### Pies/Cobblers 
 * [Lemon Meringue Pie](/lemon-meringue-pie/)
 * [Hawaiian Chocolate Haupia Pie](/hawaiian-chocolate-haupia-pie/)
 * [Key Lime Pie](/key-lime-pie/)
 * [Loquat Brown Sugar Cobbler](/loquat-brown-sugar-cobbler/)
 * [Chocolate Mousse Pie](/chocolate-mousse-pie/)
 
-####Breads
+#### Breads
 * [Moistest, Yummiest Banana Bread](/moistest-yummiest-banana-bread/)
 * [Skillet Cornbread](/skillet-cornbread/)
 * [Cornbread Muffins](/fresh-corn-muffins/)
@@ -52,7 +52,7 @@ image:
 * [Glazed Lemon Loaf](/glazed-lemon-loaf/)
 * [Savory Jalapeno Cheddar Cornbread](/savory-jalapeno-cheddar-cornbread/)
 
-####Other Sweets
+#### Other Sweets
 * [Malasadas- Portuguese Donuts](/malasadas-portuguese-donuts/)
 * [Rum-Soaked Raisin Scones](/rum-soaked-raisin-scones/)
 * [Fluffy Blueberry Pancakes](/fluffy-blueberry-pancakes/)
@@ -61,27 +61,27 @@ image:
 * [Chocolate Chip Scones](/chocolate-chip-scones/)
 * [Chewy Fruit & Nut Granola Bars](/chewy-fruit-and-nut-granola-bars/)
 
-####Frostings/Butters/Glazes/Spreads
+#### Frostings/Butters/Glazes/Spreads
 * [Coconut Frosting](/coconut-frosting/)
 * [Whipped Maple Butter](/whipped-maple-butter/)
 * [Chocolate Rum Glaze](/chocolate-rum-glaze/)
 * [Orange Marmalade](/orange-marmalade/)
 * [Cream Cheese Frosting](/cream-cheese-frosting/)
 
-####Salads
+#### Salads
 * [Ramen Coleslaw Salad](/ramen-coleslaw-salad/)
 * [Cranberry, Mandarin Orange, Feta & Walnut Salad with Balsamic Vinaigrette](/cranberry-mandarin-orange-feta-walnut-salad/)
 * [Quinoa & Black Bean Salad](/quinoa-black-bean-salad/)
 * [Broccoli Quinoa Salad with Pecans](/broccoli-quinoa-salad-with-pecans/)
 * [Pops’ Creamy Coleslaw](/pops-creamy-coleslaw/)
 
-####Dips
+#### Dips
 * [Roasted Red Pepper Hummus](/roasted-red-pepper-hummus/)
 * [Water Chestnut Dip](/water-chestnut-dip/)
 * [The. Best. Hummus.](/the-best-hummus/)
 * [Spicy, Gooey, Molten Lava Blue Cheese Dip](/spicy-gooey-molten-lava-blue-cheese-dip/)
 
-####Other Savory Dishes
+#### Other Savory Dishes
 * [Mushroom Egg Salad](/mushroom-egg-salad/)
 * [Black Bean Veggie Burgers & Caramelized Onions](/black-bean-veggie-burgers/)
 * [Breakfast Tower Sandwich](/breakfast-tower-sandwich/)
@@ -92,6 +92,6 @@ image:
 * [Carrot Souffle Bake](/carrot-souffle-bake/)
 * [Cauliflower Cheesy Breadsticks](/cauliflower-cheesy-breadsticks/)
 
-####Fundamentals
+#### Fundamentals
 * [Graham Cracker Crust](/graham-cracker-crust/)
 * [Parmesan Kale Pesto](/parmesan-kale-pesto/)
