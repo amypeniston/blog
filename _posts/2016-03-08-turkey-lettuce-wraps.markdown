@@ -19,8 +19,12 @@ date: 2016-03-08T11:06:24-05:00
 > 1/2 cup onion, minced    
 > handful of scallions, minced    
 > 5+ cloves garlic, minced    
-> Stir Fry Sauce: 4 tablespoons soy sauce, 2 tablespoons brown sugar, 1 teaspoon rice wine vinegar, 1 teaspoon garlic powder, 1 teaspoon sesame oil, combined
-> 1 head of butter lettuce
+> Stir Fry Sauce: combine 4 tablespoons soy sauce, 2 tablespoons brown sugar, 1 teaspoon rice wine vinegar, 1 teaspoon garlic powder, 1 teaspoon sesame oil     
+> 1 head of butter lettuce    
+
+* Heat olive oil in a pan until hot. Sautée ground turkey in the oil until browned, crumbling the meat as it cooks. Once cooked, place in a large bowl to cool.
+* Add a little more olive oil to the pan and cook vegetables, starting with the mushrooms as they take the longest. Add in the water chestnuts, onion, scallions and garlic and sautée altogether. Finally, add the stir fry sauce and the cooked turkey. 
+* Serve spoonfuls of the combined mixture in butter lettuce cups, dipping in the special sauces as desired.
 
 ### Special Sauces
 
@@ -47,7 +51,3 @@ To make the **Hot Sauce**, combine:
 > 2 teaspoons red chile paste     
 
 To make the **ULTIMATE BEST SAUCE IN THE UNIVERSE** pour a half cup of the **Sweet Sauce** into a bowl. Add to it a few teaspoons of **Mustard Sauce** and a few teaspoons of **Hot Sauce**. Adjust as needed. 
-
-* Heat olive oil in a pan until hot. Sautée ground turkey in the oil until browned, crumbling the meat as it cooks. Once cooked, place in a large bowl to cool.
-* Add a little more olive oil to the pan and cook vegetables, starting with the mushrooms as they take the longest. Add in the water chestnuts, onion, scallions and garlic and sautée altogether. Finally, add the stir fry sauce and the cooked turkey. 
-* Serve spoonfuls of the combined mixture in butter lettuce cups, dipping in the special sauces as desired.
