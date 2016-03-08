@@ -90,6 +90,7 @@ image:
 * [French Onion Soup](/french-onion-soup/)
 * [Potato and Carrot Patties](/potato-and-carrot-patties/)
 * [Carrot Souffle Bake](/carrot-souffle-bake/)
+* [Cauliflower Cheesy Breadsticks](/cauliflower-cheesy-breadsticks/)
 
 ####Fundamentals
 * [Graham Cracker Crust](/graham-cracker-crust/)
