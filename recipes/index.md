@@ -7,7 +7,7 @@ image:
   feature: /recipes/foolproof-chocolate-chip-cookies.jpg
 ---
 
-#### Cookies             
+#### Cookies            
 * [Foolproof Chocolate Chip Cookies](/foolproof-chocolate-chip-cookies/)
 * [Oatmeal Raisin Chocolate Coconut Cookies](/oatmeal-raisin-chocolate-coconut-cookies/)
 * [Soft Molasses Cookies](/soft-molasses-cookies/)
