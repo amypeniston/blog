@@ -6,7 +6,7 @@ categories:
 excerpt: You'll think it's pizza dough...but it's actually cauliflower!
 tags: [cauliflower, savory, cheese, appetizer, baking]
 image:
-  feature: 2015/10/cauliflower-cheesy-breadsticks.jpg
+  feature: 2016/03/cauliflower-cheesy-breadsticks.jpg
 ---
 
 *I first tried this recipe while staying with family friends in Florida. The result was so surprisingly delicious that it was half eaten before reaching the table!*
