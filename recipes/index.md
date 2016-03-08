@@ -91,6 +91,7 @@ image:
 * [Potato and Carrot Patties](/potato-and-carrot-patties/)
 * [Carrot Souffle Bake](/carrot-souffle-bake/)
 * [Cauliflower Cheesy Breadsticks](/cauliflower-cheesy-breadsticks/)
+* [Turkey Lettuce Wraps](/turkey-lettuce-wraps/)
 
 #### Fundamentals
 * [Graham Cracker Crust](/graham-cracker-crust/)
