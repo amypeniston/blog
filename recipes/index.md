@@ -92,6 +92,7 @@ image:
 * [Carrot Souffle Bake](/carrot-souffle-bake/)
 * [Cauliflower Cheesy Breadsticks](/cauliflower-cheesy-breadsticks/)
 * [Turkey Lettuce Wraps](/turkey-lettuce-wraps/)
+* [Roasted Asian Vegetables](/roasted-asian-vegetables/)
 
 #### Fundamentals
 * [Graham Cracker Crust](/graham-cracker-crust/)
