@@ -2,15 +2,15 @@
 layout: post
 title: "Roasted Asian Vegetables"
 modified:
-categories: Sweet, crunchy and sprinkled with sesame seeds. These are Stephanie's favorite. 
-excerpt:
+categories: 
+excerpt: Sweet, crunchy and sprinkled with sesame seeds. Whip these up in 20 minutes flat for a very easy and delicious Asian side dish- Steph's favorite! Love you Steph.
 tags: [asian, vegetables, broccoli, carrots]
 image:
   feature:
 date: 2016-03-08T21:42:47-05:00
 ---
 
-*Whip these up in 20 minutes flat for a very easy and delicious Asian side dish- Steph's favorite! Love you Steph.*
+*Sweet, crunchy and sprinkled with sesame seeds. Whip these up in 20 minutes flat for a very easy and delicious Asian side dish- Steph's favorite! Love you Steph.*
 
 > 5 tablespoons soy sauce     
 > 1 heaping tablespoon of brown sugar     
