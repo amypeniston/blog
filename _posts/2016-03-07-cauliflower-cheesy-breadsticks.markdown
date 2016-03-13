@@ -14,7 +14,7 @@ image:
 > 1 large head of cauliflower, cut into florets    
 > 4 large eggs (if your eggs are small, use 5)       
 > 2 cups mozzarella cheese, grated            
-> 4-5 teaspoons dried oregano     
+> 2-3 teaspoons dried oregano     
 > 2 teaspoons black pepper    
 > 2 teaspoons garlic powder    
 > generous pinch of salt          
