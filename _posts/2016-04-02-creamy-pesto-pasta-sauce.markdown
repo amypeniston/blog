@@ -16,7 +16,7 @@ date: 2016-04-02T18:53:58-03:00
 > bunch of kale, shredded or chopped finely     
 > 1/2 stick butter   
 > 6 cloves garlic, minced    
-> 2 teaspoons flour        
+> 2 tablespoons flour        
 > 2 cups milk     
 > 1 cup shredded dubliner or other sharp cheddar     
 > 1/2 cup cubed muenster or other melting cheese     
