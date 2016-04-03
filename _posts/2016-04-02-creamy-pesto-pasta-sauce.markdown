@@ -6,7 +6,7 @@ categories:
 excerpt: Just a hint of pesto and a handful of shedded kale add another dimension to this very quick and easy alfredo sauce.
 tags: [pesto, kale, pasta, sauce]
 image:
-  feature:
+  feature: 2016/04/creamy-pesto-pasta-sauce.jpg
 date: 2016-04-02T18:53:58-03:00
 ---
 
