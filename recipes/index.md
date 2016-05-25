@@ -93,6 +93,7 @@ image:
 * [Cauliflower Cheesy Breadsticks](/cauliflower-cheesy-breadsticks/)
 * [Turkey Lettuce Wraps](/turkey-lettuce-wraps/)
 * [Roasted Asian Vegetables](/roasted-asian-vegetables/)
+* [Cauliflower Buffalo Wings](/cauliflower-buffalo-wings)
 
 #### Fundamentals
 * [Graham Cracker Crust](/graham-cracker-crust/)

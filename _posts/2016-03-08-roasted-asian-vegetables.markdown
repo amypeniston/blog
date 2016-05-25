@@ -16,15 +16,15 @@ date: 2016-03-08T21:42:47-05:00
 > 1 heaping tablespoon of brown sugar     
 > 3 teaspoons sesame oil     
 > 2 teaspoons rice vinegar     
-> 2 teaspoons sriracha
+> 2 teaspoons sriracha       
 > 1 teaspoon garlic powder     
-> 1 teaspoon ginger (ground or fresh)
-> 1 teaspoon red pepper flakes     
-> 5 cloves of garlic, minced or pressed     
-> carrots, chopped into rounds or long logs
-> broccoli, chopped into florets
-> 2 teaspoons sesame seeds
-> handful of scallions, chopped into rounds
+> 1 teaspoon ginger (ground or fresh)      
+> 1 teaspoon red pepper flakes         
+> 5 cloves of garlic, minced or pressed         
+> carrots, chopped into rounds or long logs       
+> broccoli, chopped into florets         
+> 2 teaspoons sesame seeds         
+> handful of scallions, chopped into rounds           
 
 *A note about quantities of vegetables: adjust the amount of carrots and broccoli as you desire. More veggies = a drier final product. The total should be around 3-5 cups of carrots and broccoli combined.*
 
