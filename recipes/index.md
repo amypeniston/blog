@@ -93,7 +93,8 @@ image:
 * [Cauliflower Cheesy Breadsticks](/cauliflower-cheesy-breadsticks/)
 * [Turkey Lettuce Wraps](/turkey-lettuce-wraps/)
 * [Roasted Asian Vegetables](/roasted-asian-vegetables/)
-* [Cauliflower Buffalo Wings](/cauliflower-buffalo-wings)
+* [Cauliflower Buffalo Wings](/cauliflower-buffalo-wings/)
+* [Slow Cooker Chipotle Chicken Baked Flautas](/slow-cooker-chipotle-chicken-baked-flautas/)
 
 #### Fundamentals
 * [Graham Cracker Crust](/graham-cracker-crust/)
