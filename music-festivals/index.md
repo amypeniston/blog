@@ -7,11 +7,11 @@ image:
   feature: bonnaroo-cover.jpg
 ---
 
-One of my passions is going to music festivals. Especially the camping ones, where you stay in a dirty, sweaty tent and meet neighbors from all around the world. 
+I love music festivals. Day festivals are fun, but I really love the overnight camping ones, where everyone sleeps in dirty, sweaty tents and meets neighbors from all around the world. 
 
 ### What to bring?
 
-Needless to say I've whittled down a list of highly necessary items that I am sure to bring whenever I hit the road. Here's what works for me:
+I've whittled down a list of highly necessary items that I bring with me whenever I hit the road for a festival. Here's what works for me:
 
 [My Music Festival Packing List](/music-festival-packing-list/)
 

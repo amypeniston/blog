@@ -4,9 +4,9 @@ title: "BSoDs and BIOS Flashing"
 modified:
 categories: 
 excerpt: Out-of-date drivers cause errors with Operating System updates. Here's how I updated my BIOS to fix a Blue Screen of Death for Windows 10 Anniversary Edition.
-tags: []
-image: 2016/08/bsod-header.jpg
-  feature:
+tags: [windows 10, updates, bios flashing, troubleshooting, tech]
+image:
+  feature: 2016/08/bsod-header.jpg
 date: 2016-08-11T09:13:58-03:00
 ---
 
