@@ -96,6 +96,7 @@ image:
 * [Cauliflower Buffalo Wings](/cauliflower-buffalo-wings/)
 * [Slow Cooker Chipotle Chicken Baked Flautas](/slow-cooker-chipotle-chicken-baked-flautas/)
 * [Avocado Fries](/avocado-fries/)
+* [Creamed Cauliflower Kale Bake](/creamed-cauliflower-kale-bake/)
 
 #### Fundamentals
 * [Graham Cracker Crust](/graham-cracker-crust/)
