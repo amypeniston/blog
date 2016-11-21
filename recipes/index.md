@@ -22,13 +22,13 @@ image:
 * [Chocolate Peanut Butter Surprise Cookies](/chocolate-peanut-butter-surprise-cookies/)
 * [Chewy Ginger Cookies](/chewy-ginger-cookies/)
 
-#### Cakes 
+#### Cakes
 * [Rum Cake from the Gods](/rum-cake-from-the-gods/)
 * [Ginger Molasses Cupcakes](/ginger-molasses-cupcakes/)
 * [Apple Graham Streusel Coffee Cake](/apple-graham-streusel-coffee-cake/)
 * [Coconut White Chocolate Cupcakes](/coconut-white-chocolate-cupcakes/)
 
-#### Pies/Cobblers 
+#### Pies/Cobblers
 * [Lemon Meringue Pie](/lemon-meringue-pie/)
 * [Hawaiian Chocolate Haupia Pie](/hawaiian-chocolate-haupia-pie/)
 * [Key Lime Pie](/key-lime-pie/)
@@ -97,6 +97,7 @@ image:
 * [Slow Cooker Chipotle Chicken Baked Flautas](/slow-cooker-chipotle-chicken-baked-flautas/)
 * [Avocado Fries](/avocado-fries/)
 * [Creamed Cauliflower Kale Bake](/creamed-cauliflower-kale-bake/)
+* [Baked Polenta With Mushrooms & Blue Cheese](/baked-polenta-with-mushrooms-and-blue-cheese/)
 
 #### Fundamentals
 * [Graham Cracker Crust](/graham-cracker-crust/)
