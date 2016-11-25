@@ -13,8 +13,8 @@ Adapted from [Smitten Kitchen](http://smittenkitchen.com/blog/2011/04/french-oni
 > 3 tablespoons butter    
 > 2 tablespoon olive oil    
 > 1 teaspoon salt, plus more to taste    
-> 2 teaspoons black pepper, plus more to taste
-> 1 tablespoon sugar    
+> 2 teaspoons black pepper, plus more to taste        
+> 1 tablespoon sugar         
 > 2 teaspoons celery seed    
 > 2 teaspoons dried oregano    
 > 4 bay leaves    
