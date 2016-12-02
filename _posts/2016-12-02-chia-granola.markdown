@@ -3,7 +3,7 @@ layout: post
 title: "Chia Granola"
 modified:
 categories:
-excerpt:
+excerpt: Nutty, crunchy, sweet, satisfying...this granola is a lighter alternative to the heavy peanut butter variety often found in grocery stores or frozen yogurt bars.
 tags: [granola, chia seeds, flax seeds, coconut]
 image:
   feature:
