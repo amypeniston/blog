@@ -102,4 +102,5 @@ image:
 #### Fundamentals
 * [Graham Cracker Crust](/graham-cracker-crust/)
 * [Parmesan Kale Pesto](/parmesan-kale-pesto/)
-* [Creamy Pesto Pasta Sauce](/creamy-pesto-pasta-sauce)
+* [Creamy Pesto Pasta Sauce](/creamy-pesto-pasta-sauce/)
+* [Chia Granola](/chia-granola/)

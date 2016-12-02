@@ -10,7 +10,7 @@ image:
 date: 2016-11-20T20:17:47-05:00
 ---
 
-A creamy, molten side dish that's studded with hearty portobellos and topped with sharp nuggets of blue cheese.
+*A creamy, molten side dish that's studded with hearty portobellos and topped with sharp nuggets of blue cheese.*
 
 *Inspired by Ina Garten's recipe in her book "Make It Ahead"*
 
