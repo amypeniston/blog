@@ -13,7 +13,8 @@ date: 2016-12-02T10:02:37-05:00
 *Nutty, crunchy, sweet, satisfying...this granola is a lighter alternative to the heavy peanut butter variety often found in grocery stores or frozen yogurt bars.*
 
 > 3 cups old-fashioned rolled oats     
-> 1 cup grape nuts cereal      
+> 1 cup grape nuts cereal     
+> 2-3 tablespoons of chia seeds      
 > 1/4 cup ground flax seeds     
 > 1/2 cup ground oats     
 > 1/2 cup coconut sugar (or brown sugar)     
@@ -25,11 +26,11 @@ date: 2016-12-02T10:02:37-05:00
 > 1 tablespoon molasses     
 > 1 tablespoon honey     
 > 1 egg white, beaten     
-> 1 tablespoon almond extract     
+> 1 teaspoon almond extract     
 > 1 cup coconut flakes, toasted     
 
 * Preheat oven to 300°F. Line a baking sheet with parchment paper.
-* In a large bowl, stir together oats, grape nuts, ground flax seeds, ground oats, coconut sugar, cinnamon, nutmeg, salt and turmeric.
+* In a large bowl, stir together oats, grape nuts, chia seeds, ground flax seeds, ground oats, coconut sugar, cinnamon, nutmeg, salt and turmeric.
 * In a second bowl, whisk together coconut oil, molasses, honey and egg white.
 * Pour wet ingredients into dry mixture and stir till until evenly moistened.
 * Spread mixture over parchment paper using a spatula and pat flat.

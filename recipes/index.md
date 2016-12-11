@@ -38,7 +38,7 @@ image:
 #### Breads
 * [Moistest, Yummiest Banana Bread](/moistest-yummiest-banana-bread/)
 * [Skillet Cornbread](/skillet-cornbread/)
-* [Cornbread Muffins](/fresh-corn-muffins/)
+* [Fresh Corn Muffins](/fresh-corn-muffins/)
 * [Authentic Chewy Bagels](/chewy-bagels/)
 * [Cheddar Bubble Bread](/cheddar-bubble-bread/)
 * [Brazilian Cheese Puffs](/brazilian-cheese-puffs/)
