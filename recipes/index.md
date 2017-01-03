@@ -98,6 +98,7 @@ image:
 * [Avocado Fries](/avocado-fries/)
 * [Creamed Cauliflower Kale Bake](/creamed-cauliflower-kale-bake/)
 * [Baked Polenta With Mushrooms & Blue Cheese](/baked-polenta-with-mushrooms-and-blue-cheese/)
+* [Smoked Onion Seitan](/smoked-onion-seitan/)
 
 #### Fundamentals
 * [Graham Cracker Crust](/graham-cracker-crust/)
