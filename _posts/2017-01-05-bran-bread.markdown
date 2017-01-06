@@ -2,9 +2,9 @@
 layout: post
 title: "Bran Bread"
 modified:
-categories: bread, dessert, bran, raisins, dates
+categories:
 excerpt: This close-kept family recipe yields a chewy, moist, addictively delicious loaf that is even better toasted.
-tags: []
+tags: [bread, dessert, bran, raisins, dates]
 image:
   feature:
 date: 2017-01-05T19:54:21-04:00
