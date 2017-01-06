@@ -2,7 +2,7 @@
 layout: post
 title: "Smoked Onion Seitan"
 modified:
-categories:
+categories: vegetarian, seitan
 excerpt: High in protein and intensely flavorful thanks to the addition of a slow-smoked onion, this homemade seitan is better than anything you'll find in a store.
 tags: []
 image:

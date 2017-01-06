@@ -51,6 +51,7 @@ image:
 * [Filled Chinese Sweet Buns](/filled-chinese-sweet-buns/)
 * [Glazed Lemon Loaf](/glazed-lemon-loaf/)
 * [Savory Jalapeno Cheddar Cornbread](/savory-jalapeno-cheddar-cornbread/)
+* [Bran Bread](/bran-bread/)
 
 #### Other Sweets
 * [Malasadas- Portuguese Donuts](/malasadas-portuguese-donuts/)
