@@ -106,3 +106,4 @@ image:
 * [Parmesan Kale Pesto](/parmesan-kale-pesto/)
 * [Creamy Pesto Pasta Sauce](/creamy-pesto-pasta-sauce/)
 * [Chia Granola](/chia-granola/)
+* [Knöpfli / Spätzli](/knopfli-spatzli/)
