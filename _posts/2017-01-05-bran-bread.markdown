@@ -33,3 +33,5 @@ date: 2017-01-05T19:54:21-04:00
 * Let the batter rest while you coat a loaf pan with cooking spray.
 * Pour batter into pan and bake for 40 minutes. Check on the loaf and, if the top is looking like it's in danger of burning, tent it with tin foil. After 45-55 minutes, stick a toothpick in the center- it should come out *almost* clean. This bread is supposed to be chewy and can always be toasted when eaten. If after you take it out of the oven you cut into the center and it's still too gooey, leave the loaf in the pan on the counter, tent it with tin foil and it should set up.
 * Store in an airtight container and enjoy cold or toasted with a generous dollop of homemade jelly.
+
+*Makes 1 loaf*
