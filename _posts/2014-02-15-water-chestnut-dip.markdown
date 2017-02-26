@@ -1,21 +1,32 @@
 ---
 layout: post
 title: Water Chestnut Dip
-date: '2014-02-15 12:48:00'
+modified:
+categories:
+excerpt: A crunchy, creamy, delicious dip. You'll want to eat an entire bowlful- be warned!
+tags: [dip, water chestnuts, appetizer]
+image:
+  feature:
+date: 2014-02-15 12:48:00
 ---
 
-*You'll want to eat an entire bowl of this stuff. Be warned.*
+*A crunchy, creamy, delicious dip. You'll want to eat an entire bowlful- be warned!*
 
-The below quantities are just suggestions. Adjust to reach the consistency you desire!
-
-> 1-2 cans water chestnuts, sliced and diced     
-> 1 envelope of dry dip mix or salad dressing mix (ranch works very well)     
+> 1 can of water chestnuts, chopped finely     
 > 1/2 cup sour cream     
-> 1/4-1/2 cup mayonnaise (or substitute blended avocado)     
-> 1-2 tablespoons sriracha     
+> 1/4-1/2 cup mayonnaise (you can also substitute greek yogurt or blended avocado)     
+> 2 teaspoons garlic powder     
+> 1 teaspoon onion powder     
+> black pepper to taste     
+> dash of smoked paprika          
+> dash of salt       
+> 1-3 cloves garlic, minced      
 > 1/3 cup sliced scallions     
-> black pepper, dash of salt     
+> 1 tablespoon sriracha, if desired     
 
-* Whisk mayo and sour cream together until smooth.
-* Add sriracha, salad dressing mix, scallions and seasonings. Stir.
-* Add water chestnuts and stir to combine. Keep refrigerated.
+* In a bowl, whisk sour cream and mayo together until smooth.
+* Add in seasonings, garlic, scallions and sriracha.
+* Finally, add the water chestnuts and stir to combine. Adjust the amount of sour cream/mayo to reach the consistency you desire.
+* Serve with sturdy chips or toasted pita bread.
+
+Keep refrigerated.
