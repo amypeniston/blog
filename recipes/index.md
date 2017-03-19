@@ -36,7 +36,6 @@ image:
 * [Chocolate Mousse Pie](/chocolate-mousse-pie/)
 
 #### Breads
-* [Moistest, Yummiest Banana Bread](/moistest-yummiest-banana-bread/)
 * [Skillet Cornbread](/skillet-cornbread/)
 * [Fresh Corn Muffins](/fresh-corn-muffins/)
 * [Authentic Chewy Bagels](/chewy-bagels/)
@@ -108,3 +107,4 @@ image:
 * [Chia Granola](/chia-granola/)
 * [Knöpfli / Spätzli](/knopfli-spatzli/)
 * [Pizza Dough](/pizza-dough/)
+* [Vanilla Almond Granola with Cranberries](/vanilla-almond-granola-with-cranberries/)
