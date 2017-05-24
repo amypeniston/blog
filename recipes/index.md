@@ -60,6 +60,7 @@ image:
 * [Cronuts](/cronuts/)
 * [Chocolate Chip Scones](/chocolate-chip-scones/)
 * [Chewy Fruit & Nut Granola Bars](/chewy-fruit-and-nut-granola-bars/)
+* [Healthier Caramel Chocolate Bars](/healthier-caramel-chocolate-bars/)
 
 #### Frostings/Butters/Glazes/Spreads
 * [Coconut Frosting](/coconut-frosting/)
