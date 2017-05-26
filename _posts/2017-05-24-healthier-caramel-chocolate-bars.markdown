@@ -20,7 +20,7 @@ date: 2017-05-24T17:02:01-03:00
 > 2/3 cup oats     
 > 2/3 cup coconut flakes     
 > 5 medjool dates, pitted and soaked in warm water for a few minutes     
-> dash of almond extract (or vanilla, whatever you prefer)
+> dash of almond extract (or vanilla, whatever you prefer)     
 > pinch of salt     
 
 **Caramel Filling**
