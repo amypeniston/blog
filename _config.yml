@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Amy
   avatar: avatar.jpg
-  bio: "freelance front-end web dev, Society 6 creator & travel writer - podcastaholic - IFPA-certified pilates instructor"
+  bio: "web dev, Society 6 creator, Udemy teacher, traveler, podcastaholic & IFPA-certified pilates lover"
   email: amy@amypeniston.com
   disqus-shortname:
   twitter: amypeniston
@@ -40,7 +40,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: amypeniston
+  github: #username
   stackoverflow: #username
   linkedin: #username
   xing: #username
